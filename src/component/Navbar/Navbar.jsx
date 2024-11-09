@@ -45,7 +45,7 @@ function Navigations({ toggleShowCart }) {
   return (
     <nav className={`nav container ${isNavOpen ? "nav-open" : ""}`}>
       <span className="brand-name">
-        <Link to="/">Pelsworld</Link>
+        <Link to="/">Perlsworld</Link>
       </span>
       <ul className="nav-link_container">
         <li className="nav-link">
